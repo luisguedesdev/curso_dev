@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Teste com mais teste</h1>
+      <h1>Test Vercel app</h1>
     </div>
   );
 }
