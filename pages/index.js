@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Test up dns site</h1>
+      <h1>Test now</h1>
     </div>
   );
 }
