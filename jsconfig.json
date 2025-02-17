@@ -3,3 +3,5 @@
     "baseUrl": "."
   }
 }
+
+//Utilizamos o baseUrl para que o compilador saiba onde encontrar os arquivos que estão sendo importados
